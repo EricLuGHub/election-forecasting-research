@@ -1,0 +1,10 @@
+.env
+.env.*
+data/
+*.sqlite
+*.db
+__pycache__/
+*.py[cod]
+.pytest_cache/
+coverage.xml
+htmlcov/
