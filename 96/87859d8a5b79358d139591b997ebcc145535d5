@@ -1,0 +1,495 @@
+FORECASTING.md
+  s_78e905ea4bc1a6::t_2cdd9b5cf30a3e 1-168
+research/__init__.py
+  s_78e905ea4bc1a6::t_9a8215c0ead638 1
+research/acctrecon.py
+  s_78e905ea4bc1a6::t_40c436356225f2 1-110
+research/allocate.py
+  s_78e905ea4bc1a6::t_ba22cc9aeba4fd 1-68
+research/allocator.py
+  s_78e905ea4bc1a6::t_55bfa483194987 1-94
+research/analyze.py
+  s_78e905ea4bc1a6::t_9a29da1307b5da 1-163
+research/attrib.py
+  s_78e905ea4bc1a6::t_7ed6bd6c73f1b2 1-127
+research/basis.py
+  s_78e905ea4bc1a6::t_51f0360ce07226 1-72
+research/baskets.py
+  s_78e905ea4bc1a6::t_829ca76aa86a2b 1-363
+research/book_inspect.py
+  s_78e905ea4bc1a6::t_a017816641d72b 1-53
+research/calendar.py
+  s_78e905ea4bc1a6::t_2cd1292e68e3b9 1-50
+research/campaign.py
+  s_78e905ea4bc1a6::t_95d44d6e6bf9a6 1-114
+research/cancellead.py
+  s_78e905ea4bc1a6::t_38f4a02e668d93 1-59
+research/canon.py
+  s_78e905ea4bc1a6::t_e6f7f2d9739bce 1-72
+research/capacity.py
+  s_78e905ea4bc1a6::t_0558a7f6576906 1-81
+research/capbuckets.py
+  s_78e905ea4bc1a6::t_446cd289903e76 1-73
+research/capuse.py
+  s_78e905ea4bc1a6::t_9f117cf72a8290 1-93
+research/chamber.py
+  s_78e905ea4bc1a6::t_685f0f04e72a0c 1-70
+research/client.py
+  s_78e905ea4bc1a6::t_9b590d808a19ad 1-124
+research/collateral.py
+  s_78e905ea4bc1a6::t_d32320b8ec755e 1-50
+research/converge.py
+  s_78e905ea4bc1a6::t_eb49375964bb04 1-118
+research/convexit.py
+  s_78e905ea4bc1a6::t_bc60e0db6a4be2 1-235
+research/depthacq.py
+  s_78e905ea4bc1a6::t_d9953cf2217b9b 1-36
+research/depthimb.py
+  s_78e905ea4bc1a6::t_501c6813b51b56 1-56
+research/e1run.py
+  s_78e905ea4bc1a6::t_a7a466697a7c1b 1-270
+research/e2watch.py
+  s_78e905ea4bc1a6::t_cfd48878924d22 1-209
+research/e3eval.py
+  s_78e905ea4bc1a6::t_2ce7620dee10a0 1-83
+research/e3paper.py
+  s_78e905ea4bc1a6::t_6fb7a8d2cf4006 1-50
+research/e6data.py
+  s_78e905ea4bc1a6::t_2d494fa9e531a9 1-246
+research/e6eval.py
+  s_78e905ea4bc1a6::t_07859f21af7368 1-67
+research/e6run.py
+  s_78e905ea4bc1a6::t_5e8f088c7c8598 1-273
+research/e7eval.py
+  s_78e905ea4bc1a6::t_13cbddd07ef191 1-90
+research/e7run.py
+  s_78e905ea4bc1a6::t_1cb19bbf6be264 1-353
+research/edge_study.py
+  s_78e905ea4bc1a6::t_6ccfcda85731aa 1-155
+research/engcheck.py
+  s_78e905ea4bc1a6::t_503e3f9026e2ce 1-68
+research/engines/base.py
+  s_78e905ea4bc1a6::t_3fe0b9ba5822f6 1-32
+research/engines/engine1_mm.py
+  s_78e905ea4bc1a6::t_338a6368db8797 1-62
+research/engines/engine2_baskets.py
+  s_78e905ea4bc1a6::t_dc0a39103c854e 1-32
+research/engines/engine3_fade.py
+  s_78e905ea4bc1a6::t_e3fbe01c4bfeb5 1-38
+research/engines/engine4_conditional.py
+  s_78e905ea4bc1a6::t_04e812fb0225c5 1-32
+research/engines/engine5_chamber.py
+  s_78e905ea4bc1a6::t_6580a6378ecc17 1-17
+research/engines/engine6_value.py
+  s_78e905ea4bc1a6::t_0a367d86205faf 1-310
+research/engines/engine7_maker.py
+  s_78e905ea4bc1a6::t_0e6854a79738db 1-129
+research/evaluate.py
+  s_78e905ea4bc1a6::t_f5cf909f02c86a 1-50
+research/execmetrics.py
+  s_78e905ea4bc1a6::t_6a15c5ff56ddb5 1-151
+research/execution.py
+  s_78e905ea4bc1a6::t_7c9a0296276701 1-277
+research/exhaust.py
+  s_78e905ea4bc1a6::t_9294984b46238b 1-121
+research/exit.py
+  s_78e905ea4bc1a6::t_098587ddb7d092 1-137
+research/exitplan.py
+  s_78e905ea4bc1a6::t_c2ba8792cf8994 1-62
+research/experiments.py
+  s_78e905ea4bc1a6::t_ed8b0b428ddceb 1-28
+research/external.py
+  s_78e905ea4bc1a6::t_0df531462093e6 1-115
+research/feasible.py
+  s_78e905ea4bc1a6::t_6c42b528fc662e 1-41
+research/feed_bridge.mjs
+  s_78e905ea4bc1a6::t_8848b1389c1573 1-149
+research/feedcheck.py
+  s_78e905ea4bc1a6::t_cf8176a2c829e5 1-82
+research/fillcond.py
+  s_78e905ea4bc1a6::t_b76cc1874f333f 1-78
+research/fillnorm.py
+  s_78e905ea4bc1a6::t_da8c080920f9cf 1-59
+research/flowimb.py
+  s_78e905ea4bc1a6::t_8db9c2dd6be2f9 1-61
+research/forecast_sources.py
+  s_78e905ea4bc1a6::t_0071a3e68c60e5 1-236
+research/forecastdelta.py
+  s_78e905ea4bc1a6::t_8141081a2dc01f 1-56
+research/fourq.py
+  s_78e905ea4bc1a6::t_8ade878159209e 1-97
+research/fundamentals.py
+  s_78e905ea4bc1a6::t_2b02aab32264d4 1-48
+research/funnel.py
+  s_78e905ea4bc1a6::t_13ce63883aa71f 1-97
+research/gate.py
+  s_78e905ea4bc1a6::t_8a609f7f73d260 1-43
+research/holdout.py
+  s_78e905ea4bc1a6::t_85fb09c180ce14 1-79
+research/holdvsexit.py
+  s_78e905ea4bc1a6::t_5ba4d3529f7aec 1-92
+research/inputs.py
+  s_78e905ea4bc1a6::t_a1d1eb7c74b7b8 1-57
+research/invskew.py
+  s_78e905ea4bc1a6::t_75082d177432ea 1-55
+research/ladder.py
+  s_78e905ea4bc1a6::t_549a2a01592457 1-61
+research/leadlag.py
+  s_78e905ea4bc1a6::t_452b411b30015a 1-66
+research/literature.py
+  s_78e905ea4bc1a6::t_175ecffdc7db80 1-95
+research/live_monitor.py
+  s_78e905ea4bc1a6::t_9d5e244fecf149 1-86
+research/maker_study.py
+  s_78e905ea4bc1a6::t_87dcdf3e62e050 1-161
+research/makervsbuy.py
+  s_78e905ea4bc1a6::t_82b24435b102d7 1-46
+research/marginal.py
+  s_78e905ea4bc1a6::t_90bf8edfb7ff80 1-71
+research/markout.py
+  s_78e905ea4bc1a6::t_4c07b8812b80e1 1-206
+research/mdache.py
+  s_78e905ea4bc1a6::t_27f763b9e21228 1-79
+research/micropx.py
+  s_78e905ea4bc1a6::t_795117a0130321 1-38
+research/momentum.py
+  s_78e905ea4bc1a6::t_3bf710920962bd 1-122
+research/monitor.py
+  s_78e905ea4bc1a6::t_86329ff970e062 1-522
+research/newswire.py
+  s_78e905ea4bc1a6::t_a96abedfa1fe00 1-88
+research/nightmodel.py
+  s_78e905ea4bc1a6::t_bb46f8eb5e02d4 1-54
+research/normbook.py
+  s_78e905ea4bc1a6::t_83752c2252a6c0 1-63
+research/objective.py
+  s_78e905ea4bc1a6::t_f28ae62b54a4d2 1-43
+research/pairscan.py
+  s_78e905ea4bc1a6::t_2c3c43e21d1993 1-73
+research/paperbook.py
+  s_78e905ea4bc1a6::t_497d54fc7edc96 1-147
+research/partial.py
+  s_78e905ea4bc1a6::t_fd1291481174e9 1-82
+research/pilot.py
+  s_78e905ea4bc1a6::t_209ef41125d851 1-97
+research/plan.py
+  s_78e905ea4bc1a6::t_ca5ec76cdc0e35 1-57
+research/policybase.py
+  s_78e905ea4bc1a6::t_8a1698389b8726 1-73
+research/pollbase.py
+  s_78e905ea4bc1a6::t_c62be160574d30 1-66
+research/polling_audit.py
+  s_78e905ea4bc1a6::t_3e5046bda9f3df 1-162
+research/pricing.py
+  s_78e905ea4bc1a6::t_dea61843bd0b5c 1-103
+research/queueest.py
+  s_78e905ea4bc1a6::t_744b55d376a62d 1-47
+research/quoteage.py
+  s_78e905ea4bc1a6::t_733820d02901aa 1-69
+research/quoter.py
+  s_78e905ea4bc1a6::t_9e77390b9af51a 1-373
+research/ranktrack.py
+  s_78e905ea4bc1a6::t_0970b799de463d 1-81
+research/ratelimit.py
+  s_78e905ea4bc1a6::t_7635fd50393047 1-119
+research/realized.py
+  s_78e905ea4bc1a6::t_3057a071f15a98 1-93
+research/realtime.py
+  s_78e905ea4bc1a6::t_e8d29860ac673d 1-224
+research/reconcile.py
+  s_78e905ea4bc1a6::t_c8d1e724f2405a 1-100
+research/reconcile_order.py
+  s_78e905ea4bc1a6::t_131eb965570123 1-91
+research/recovery.py
+  s_78e905ea4bc1a6::t_9f4bb584911f34 1-112
+research/refill.py
+  s_78e905ea4bc1a6::t_8378bc5b64bc43 1-63
+research/regimes.py
+  s_78e905ea4bc1a6::t_2e2a44d03a8600 1-75
+research/rejectlog.py
+  s_78e905ea4bc1a6::t_675fbdd321d47f 1-91
+research/relval.py
+  s_78e905ea4bc1a6::t_dca22b0f2faea6 1-57
+research/replenish.py
+  s_78e905ea4bc1a6::t_4b33f8b8d6b835 1-54
+research/resolag.py
+  s_78e905ea4bc1a6::t_8d201041978911 1-34
+research/retrigger.py
+  s_78e905ea4bc1a6::t_4659fe16c443c8 1-86
+research/risk.py
+  s_78e905ea4bc1a6::t_91f94819a71a38 1-153
+research/routes.py
+  s_78e905ea4bc1a6::t_7d081cbac5ee7a 1-56
+research/schema.py
+  s_78e905ea4bc1a6::t_2020889ed13575 1-16
+research/seqrule.py
+  s_78e905ea4bc1a6::t_c104d591a63c7d 1-68
+research/serve.py
+  s_78e905ea4bc1a6::t_10c10654593c04 1-215
+research/settle.py
+  s_78e905ea4bc1a6::t_6a082d7ea56040 1-41
+research/shocks.py
+  s_78e905ea4bc1a6::t_7c20a6d4c00a20 1-116
+research/shortbook.py
+  s_78e905ea4bc1a6::t_b6ba2e80b99560 1-70
+research/sigclock.py
+  s_78e905ea4bc1a6::t_bdfa743490ea44 1-92
+research/snapshot.py
+  s_78e905ea4bc1a6::t_79f3b0cf844681 1-58
+research/spec.py
+  s_78e905ea4bc1a6::t_1aa71b66c0ecae 1-54
+research/stress.py
+  s_78e905ea4bc1a6::t_e690c9016f07ee 1-71
+research/subcost.py
+  s_78e905ea4bc1a6::t_9b65a1d625711e 1-77
+research/tape.py
+  s_78e905ea4bc1a6::t_cd09614d8c4d93 1-26
+research/thinbar.py
+  s_78e905ea4bc1a6::t_82c2e86be9e740 1-27
+research/threshold.py
+  s_78e905ea4bc1a6::t_0640a131e11bb2 1-55
+research/tickbar.py
+  s_78e905ea4bc1a6::t_098021929b63fc 1-39
+research/ticks.py
+  s_78e905ea4bc1a6::t_2fd8bac1ece819 1-38
+research/touchcal.py
+  s_78e905ea4bc1a6::t_cdb3c92cf0d07b 1-98
+research/trial.py
+  s_78e905ea4bc1a6::t_bed3f31c23eaef 1-105
+research/trial_finish.py
+  s_78e905ea4bc1a6::t_1612b21ed7ef4e 1-61
+research/trial_health.py
+  s_78e905ea4bc1a6::t_69c0a8d5c05b02 1-100
+research/trial_review.py
+  s_78e905ea4bc1a6::t_b17b4575646576 1-88
+research/trialreplay.py
+  s_78e905ea4bc1a6::t_1b65cb28a54ca8 1-82
+research/venuerank.py
+  s_78e905ea4bc1a6::t_38925fdb83e9e7 1-39
+research/venuescore.py
+  s_78e905ea4bc1a6::t_5670476aaa86b5 1-43
+research/windows.py
+  s_78e905ea4bc1a6::t_d889446f5b338c 1-49
+tests/test_acctrecon.py
+  s_78e905ea4bc1a6::t_c021c87e8855fd 1-20
+tests/test_allocate.py
+  s_78e905ea4bc1a6::t_1a19556cd6d6d9 1-34
+tests/test_attrib.py
+  s_78e905ea4bc1a6::t_85b92ef94adcb2 1-64
+tests/test_basis.py
+  s_78e905ea4bc1a6::t_d55095ab013b75 1-42
+tests/test_baskets.py
+  s_78e905ea4bc1a6::t_d3d021dce5dce3 1-167
+tests/test_calendar.py
+  s_78e905ea4bc1a6::t_1b9b29012e75f7 1-31
+tests/test_campaign.py
+  s_78e905ea4bc1a6::t_5a1c47934221ae 1-80
+tests/test_cancellead.py
+  s_78e905ea4bc1a6::t_2602c69dd1b4ed 1-22
+tests/test_canon.py
+  s_78e905ea4bc1a6::t_8d778efbac1e34 1-49
+tests/test_capacity.py
+  s_78e905ea4bc1a6::t_e0828c3969a900 1-32
+tests/test_capbuckets.py
+  s_78e905ea4bc1a6::t_6054334b598c3f 1-27
+tests/test_capuse.py
+  s_78e905ea4bc1a6::t_1c3da170a77db9 1-23
+tests/test_chamber.py
+  s_78e905ea4bc1a6::t_56e518cfd1c043 1-24
+tests/test_client.py
+  s_78e905ea4bc1a6::t_28dbcb4712522f 1-36
+tests/test_collateral.py
+  s_78e905ea4bc1a6::t_d38c2011ff03be 1-19
+tests/test_converge.py
+  s_78e905ea4bc1a6::t_832306a63601f7 1-59
+tests/test_convexit.py
+  s_78e905ea4bc1a6::t_f0ef906a063b98 1-119
+tests/test_depthacq.py
+  s_78e905ea4bc1a6::t_ced45ba429adfa 1-38
+tests/test_depthimb.py
+  s_78e905ea4bc1a6::t_b00b647561efdb 1-16
+tests/test_e6.py
+  s_78e905ea4bc1a6::t_223490c0edcf49 1-291
+tests/test_e7eval.py
+  s_78e905ea4bc1a6::t_e9af55671b25ba 1-43
+tests/test_edge_study.py
+  s_78e905ea4bc1a6::t_5fe4cc1a005c8d 1-54
+tests/test_engcheck.py
+  s_78e905ea4bc1a6::t_079d45628e6e62 1-37
+tests/test_engine7.py
+  s_78e905ea4bc1a6::t_b4448e5cd23cba 1-231
+tests/test_engines.py
+  s_78e905ea4bc1a6::t_965b05fbad2719 1-134
+tests/test_execmetrics.py
+  s_78e905ea4bc1a6::t_c82df863102bd6 1-88
+tests/test_execution.py
+  s_78e905ea4bc1a6::t_aac06fffdb79fe 1-196
+tests/test_exhaust.py
+  s_78e905ea4bc1a6::t_b30485dd85483a 1-42
+tests/test_exitplan.py
+  s_78e905ea4bc1a6::t_075ef53da1a747 1-37
+tests/test_failure_replay.py
+  s_78e905ea4bc1a6::t_b7d90cc8af53db 1-122
+tests/test_feasible.py
+  s_78e905ea4bc1a6::t_2f7a6ea9bdbbb2 1-15
+tests/test_feedcheck.py
+  s_78e905ea4bc1a6::t_b60cd5e2fc0513 1-51
+tests/test_fillcond.py
+  s_78e905ea4bc1a6::t_c27dd7e644d878 1-29
+tests/test_fillnorm.py
+  s_78e905ea4bc1a6::t_abb8c748f476f1 1-41
+tests/test_flowimb.py
+  s_78e905ea4bc1a6::t_de08d9d2b622cd 1-19
+tests/test_forecast_sources.py
+  s_78e905ea4bc1a6::t_3c1359047155e0 1-92
+tests/test_forecastdelta.py
+  s_78e905ea4bc1a6::t_e55048c9b6c816 1-26
+tests/test_fourq.py
+  s_78e905ea4bc1a6::t_20001ad793bbea 1-23
+tests/test_fundamentals.py
+  s_78e905ea4bc1a6::t_5a63e4afcaa185 1-23
+tests/test_funnel.py
+  s_78e905ea4bc1a6::t_48d17fa78f13e7 1-21
+tests/test_holdout.py
+  s_78e905ea4bc1a6::t_4d0874f41f915a 1-25
+tests/test_holdvsexit.py
+  s_78e905ea4bc1a6::t_3c9bbce7f9832b 1-42
+tests/test_inputs.py
+  s_78e905ea4bc1a6::t_39d61edf8cb750 1-33
+tests/test_invskew.py
+  s_78e905ea4bc1a6::t_3e2956083e3858 1-22
+tests/test_ladder.py
+  s_78e905ea4bc1a6::t_6b2f107c34420b 1-19
+tests/test_leadlag.py
+  s_78e905ea4bc1a6::t_9fee9d6da8d4bf 1-35
+tests/test_literature.py
+  s_78e905ea4bc1a6::t_aa06907cfdb855 1-36
+tests/test_maker_study.py
+  s_78e905ea4bc1a6::t_9e48e15044dbad 1-66
+tests/test_makervsbuy.py
+  s_78e905ea4bc1a6::t_fec0ad4a4cbad1 1-14
+tests/test_marginal.py
+  s_78e905ea4bc1a6::t_5eca719b0fd2ed 1-49
+tests/test_markout.py
+  s_78e905ea4bc1a6::t_486d411d6c372b 1-47
+tests/test_marks.py
+  s_78e905ea4bc1a6::t_8bb11a929be1ed 1-27
+tests/test_mdache.py
+  s_78e905ea4bc1a6::t_e2068959310d41 1-49
+tests/test_micropx.py
+  s_78e905ea4bc1a6::t_21bbc9e4d74688 1-15
+tests/test_momentum.py
+  s_78e905ea4bc1a6::t_0b74b4d2e92436 1-41
+tests/test_monitor.py
+  s_78e905ea4bc1a6::t_b91d284f1e2915 1-170
+tests/test_newswire.py
+  s_78e905ea4bc1a6::t_ed664f94b8ede2 1-41
+tests/test_nightmodel.py
+  s_78e905ea4bc1a6::t_dfbeecb7066130 1-17
+tests/test_normbook.py
+  s_78e905ea4bc1a6::t_945079a1f04562 1-23
+tests/test_objective.py
+  s_78e905ea4bc1a6::t_935dba061104f9 1-16
+tests/test_paperbook.py
+  s_78e905ea4bc1a6::t_0f3a52ac7eb37d 1-63
+tests/test_partial.py
+  s_78e905ea4bc1a6::t_12294686030206 1-53
+tests/test_pilot.py
+  s_78e905ea4bc1a6::t_2af79b4d963a79 1-80
+tests/test_policybase.py
+  s_78e905ea4bc1a6::t_6b3b1e49e2ea00 1-28
+tests/test_pollbase.py
+  s_78e905ea4bc1a6::t_bd5ad11c84d37b 1-25
+tests/test_queueest.py
+  s_78e905ea4bc1a6::t_31be147d5409aa 1-16
+tests/test_quoteage.py
+  s_78e905ea4bc1a6::t_b56236c10594a7 1-21
+tests/test_quoter.py
+  s_78e905ea4bc1a6::t_41d103206188ef 1-25
+tests/test_quoter_v4.py
+  s_78e905ea4bc1a6::t_0f16e2f07c28a1 1-106
+tests/test_ranktrack.py
+  s_78e905ea4bc1a6::t_29ba868c97f37d 1-33
+tests/test_ratelimit.py
+  s_78e905ea4bc1a6::t_3e545008478288 1-40
+tests/test_realized.py
+  s_78e905ea4bc1a6::t_060879a0440a0f 1-60
+tests/test_realtime.py
+  s_78e905ea4bc1a6::t_0f8ab5127f44be 1-112
+tests/test_reconcile.py
+  s_78e905ea4bc1a6::t_5e36986ca5f6cd 1-54
+tests/test_reconcile_order.py
+  s_78e905ea4bc1a6::t_d07c71f56cc5e6 1-68
+tests/test_recovery.py
+  s_78e905ea4bc1a6::t_f7b219cbb7169a 1-280
+tests/test_refill.py
+  s_78e905ea4bc1a6::t_9e2dbf3fc6b0f0 1-40
+tests/test_regimes.py
+  s_78e905ea4bc1a6::t_262aa6148811c7 1-31
+tests/test_rejectlog.py
+  s_78e905ea4bc1a6::t_bd3dc50bdbed2b 1-48
+tests/test_relval.py
+  s_78e905ea4bc1a6::t_66e02af6cab2b5 1-22
+tests/test_replenish.py
+  s_78e905ea4bc1a6::t_68114d04c76dd7 1-32
+tests/test_research.py
+  s_78e905ea4bc1a6::t_67aecc40ab1639 1-70
+tests/test_resolag.py
+  s_78e905ea4bc1a6::t_1487e5c9b0d513 1-16
+tests/test_retrigger.py
+  s_78e905ea4bc1a6::t_087f6dea00aba9 1-62
+tests/test_routes.py
+  s_78e905ea4bc1a6::t_6d259b24544d91 1-25
+tests/test_seqrule.py
+  s_78e905ea4bc1a6::t_9b455476e588ee 1-32
+tests/test_settle.py
+  s_78e905ea4bc1a6::t_5c38ed2b6d4088 1-16
+tests/test_shocks.py
+  s_78e905ea4bc1a6::t_d873e51ccf4fdc 1-36
+tests/test_shortbook.py
+  s_78e905ea4bc1a6::t_6e74f8eddac252 1-36
+tests/test_sigclock.py
+  s_78e905ea4bc1a6::t_bcc58042b9acd4 1-50
+tests/test_spec.py
+  s_78e905ea4bc1a6::t_6cdd39195ae14b 1-27
+tests/test_stress.py
+  s_78e905ea4bc1a6::t_f87db7c123cca8 1-24
+tests/test_subcost.py
+  s_78e905ea4bc1a6::t_e39538b2221eb7 1-38
+tests/test_thinbar.py
+  s_78e905ea4bc1a6::t_72244e2bf520e5 1-17
+tests/test_threshold.py
+  s_78e905ea4bc1a6::t_67d6733c2957bf 1-20
+tests/test_tickbar.py
+  s_78e905ea4bc1a6::t_fa0e9c50325950 1-23
+tests/test_ticks.py
+  s_78e905ea4bc1a6::t_ff7ed9353375aa 1-18
+tests/test_touchcal.py
+  s_78e905ea4bc1a6::t_eea9e6a022048e 1-48
+tests/test_trial.py
+  s_78e905ea4bc1a6::t_f342750068c871 1-259
+tests/test_trialreplay.py
+  s_78e905ea4bc1a6::t_03202d842516da 1-40
+tests/test_venuerank.py
+  s_78e905ea4bc1a6::t_2ef6073e1d4cb0 1-16
+tests/test_venuescore.py
+  s_78e905ea4bc1a6::t_261240e1108d70 1-17
+tests/test_windows.py
+  s_78e905ea4bc1a6::t_60736e942338b9 1-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9687859d8a5b79358d139591b997ebcc145535d5",
+  "prompts": {},
+  "sessions": {
+    "s_78e905ea4bc1a6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1b231-b6bd-7841-aed2-68064f98047c",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "ericlu <erickandmorty2013@gmail.com>"
+    }
+  }
+}
